@@ -1,0 +1,1 @@
+# OpenMPtut parallel computing
